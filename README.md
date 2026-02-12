@@ -1,2 +1,1 @@
-# nagyi-receptje
-csak akkor ha nagyon meg akarsz prankelni valakit
+ne tölsd le a .zip fáljt
